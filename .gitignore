@@ -1,0 +1,31 @@
+# Data files
+*.root
+*.npy
+*.npz
+*.hdf5
+*.h5
+
+# Output plots
+*.png
+*.pdf
+*.eps
+*.svg
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Analysis output directories
+plots/
+output/
